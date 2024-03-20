@@ -1,6 +1,10 @@
 function App() {
+  const username = "Gaurav Kr. Singh"
+
   return (
-    <h1>Hello Gaurav Kumar Singh! 24th March is your Birthday.</h1>
+    <>
+    <h1>Hello {username}! 24th March is your Birthday.</h1>
+    </>
   )
 }
 
